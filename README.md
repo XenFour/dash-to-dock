@@ -44,7 +44,7 @@ In this case install the `gettext` package from your distribution's repository.
 
 ## Bug Reporting
 
-Bugs should be reported to the Github bug tracker [https://github.com/micheleg/dash-to-dock/issues](https://github.com/micheleg/dash-to-dock/issues).
+Bugs should be reported to the Github bug tracker [https://github.com/XenFour/dash-to-dock/issues](https://github.com/XenFour/dash-to-dock/issues).
 
 ## License
 Dash to Dock Gnome Shell extension is distributed under the terms of the GNU General Public License,
