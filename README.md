@@ -6,8 +6,6 @@ This extension enhances the dash moving it out of the overview and transforming 
 
 [<img src="https://micheleg.github.io/dash-to-dock/media/get-it-on-ego.png" height="100">](https://extensions.gnome.org/extension/307/dash-to-dock)
 
-For additional installation instructions and more information visit [https://micheleg.github.io/dash-to-dock/](https://micheleg.github.io/dash-to-dock/).
-
 ## Installation from source
 
 The extension can be installed directly from source, either for the convenience of using git or to test the latest development version. Clone the desired branch with git
@@ -31,7 +29,7 @@ Clone the repository or download the branch from github. A simple Makefile is in
 Next use `make` to install the extension into your home directory. A Shell reload is required `Alt+F2 r Enter` under Xorg or under Wayland you may have to logout and login. The extension has to be enabled  with *gnome-extensions-app* (GNOME Extensions) or with *dconf*.
 
 ```bash
-git clone https://github.com/micheleg/dash-to-dock.git
+git clone https://github.com/XenFour/dash-to-dock.git
 make -C dash-to-dock install
 ```
 
